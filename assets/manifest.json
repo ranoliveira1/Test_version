@@ -1,0 +1,10 @@
+{
+    "name": "Clear Safety - Approvals Form",
+    "short_name": "CS Approvals",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#2A685A",
+    "description": "This is a Clear Safety app created to provide a way to the Contractors require approvals for their works",
+    "orientation": "natural"
+}
